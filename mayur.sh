@@ -12,3 +12,4 @@ num=$(($num/10))
 done
 
 echo "number of digit "$count
+hello world!
